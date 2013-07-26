@@ -1,7 +1,7 @@
 packing
 =======
 
-Open source packing. An np-hard problem.
+Packing for a trip to the Midwest. An np-hard problem.
 
 
 List
