@@ -9,3 +9,4 @@ List
 
 * swim trunks
 * flippie floppies
+* shame
