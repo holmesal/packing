@@ -11,6 +11,7 @@ List
 * flippie floppies
 * thinking cap
 
+```
 #! /usr/bin/python
 import trip
 from room import closet, accessories
@@ -33,3 +34,4 @@ stuff.append(accessories.moleskine)
 stuff.append(accessories.tooth_brush)
 
 assert pats_toothpaste not in stuff, 'You better not take my toothpaste!'
+```
